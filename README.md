@@ -1,0 +1,1 @@
+TD / TDG refinements QC. Five groups: 00-heart-C, 00-heart-D, 03-02, 07-03, and the unchanged 07-04 kept reference. Originals are nonvotable; six new revisions are votable. Images are full resolution.

@@ -1,0 +1,122 @@
+{
+  "items": [
+    {
+      "code": "00-heart-C",
+      "brand": "Heart D",
+      "variants": [
+        {
+          "id": "00-heart-C-original",
+          "label": "Original",
+          "reference": true,
+          "width": 1254,
+          "height": 1254,
+          "image": "media/00-heart-C-original.png"
+        },
+        {
+          "id": "00-heart-C-rev-a",
+          "label": "Refined A",
+          "reference": false,
+          "width": 1254,
+          "height": 1254,
+          "image": "media/00-heart-C-rev-a.png"
+        }
+      ]
+    },
+    {
+      "code": "00-heart-D",
+      "brand": "Heart D",
+      "variants": [
+        {
+          "id": "00-heart-D-original",
+          "label": "Original",
+          "reference": true,
+          "width": 1254,
+          "height": 1254,
+          "image": "media/00-heart-D-original.png"
+        },
+        {
+          "id": "00-heart-D-rev-a",
+          "label": "Refined A",
+          "reference": false,
+          "width": 1254,
+          "height": 1254,
+          "image": "media/00-heart-D-rev-a.png"
+        },
+        {
+          "id": "00-heart-D-rev-b",
+          "label": "Refined B",
+          "reference": false,
+          "width": 1254,
+          "height": 1254,
+          "image": "media/00-heart-D-rev-b.png"
+        }
+      ]
+    },
+    {
+      "code": "03-02",
+      "brand": "Linked figures",
+      "variants": [
+        {
+          "id": "03-02-original",
+          "label": "Original",
+          "reference": true,
+          "width": 1254,
+          "height": 1254,
+          "image": "media/03-02-original.png"
+        },
+        {
+          "id": "03-02-rev-a",
+          "label": "Refined A",
+          "reference": false,
+          "width": 1254,
+          "height": 1254,
+          "image": "media/03-02-rev-a.png"
+        }
+      ]
+    },
+    {
+      "code": "07-03",
+      "brand": "Human circular",
+      "variants": [
+        {
+          "id": "07-03-original",
+          "label": "Original",
+          "reference": true,
+          "width": 1774,
+          "height": 887,
+          "image": "media/07-03-original.png"
+        },
+        {
+          "id": "07-03-rev-a",
+          "label": "Refined A",
+          "reference": false,
+          "width": 1774,
+          "height": 887,
+          "image": "media/07-03-rev-a.png"
+        },
+        {
+          "id": "07-03-rev-b",
+          "label": "Refined B",
+          "reference": false,
+          "width": 1774,
+          "height": 887,
+          "image": "media/07-03-rev-b.png"
+        }
+      ]
+    },
+    {
+      "code": "07-04",
+      "brand": "Kept anchor",
+      "variants": [
+        {
+          "id": "07-04-kept",
+          "label": "Kept",
+          "reference": true,
+          "width": 1774,
+          "height": 887,
+          "image": "media/07-04-kept.png"
+        }
+      ]
+    }
+  ]
+}
